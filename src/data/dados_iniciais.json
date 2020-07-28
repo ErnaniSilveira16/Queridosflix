@@ -1,50 +1,50 @@
 {
   "categorias": [
     {
-      "titulo": "Front End",
+      "titulo": "Pedido de namoro",
       "link": "https://www.alura.com.br/formacao-front-end",
       "cor": "#6BD1FF",
       "link_extra": {
-        "text": "Formação de Front End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-front-end"
+        "text": "BLACK COUPLES COMPILATION",
+        "url": ""
       },
       "videos": [
         {
-          "titulo": "O que faz uma desenvolvedora front-end? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=ZY3-MFxVdEw"
+          "titulo": "PEDIDO DE NAMORO FINALMENTE PERFEITO!! (MARIA VENTURE E GREGORY KESSEY)",
+          "url": "https://www.youtube.com/watch?v=DbNCWZYvbTE"
         },
         {
-          "titulo": "SEO com React",
-          "url": "https://www.youtube.com/watch?v=c8mVlakBESE"
+          "titulo": "FUI PEDIDA EM NAMORO DA FORMA MAIS LINDA DE TODAS!",
+          "url": "https://www.youtube.com/watch?v=7kQbDKNb_yU"
         },
         {
-          "titulo": "Componentização com VanillaJS #AluraMais",
-          "url": "https://www.youtube.com/watch?v=LatCKpcOMak"
+          "titulo": "Um pedido de namoro encantador",
+          "url": "https://www.youtube.com/watch?v=ukBphRmiBCw"
         },
         {
-          "titulo": "Pare de chutar e aprenda a display: inline #01",
-          "url": "https://www.youtube.com/watch?v=5PS6ku8NzIE"
+          "titulo": "O MELHOR PEDIDO DE NAMORO DE TODOS OS TEMPOS",
+          "url": "https://www.youtube.com/watch?v=kTMNaJTiA6Q"
         },
         {
-          "titulo": "Template String: Interpolando strings com JavaScript #AluraMais",
-          "url": "https://www.youtube.com/watch?v=ORI_HTXaIw0"
+          "titulo": "PEDIDO DE NAMORO MAIS QUE PERFEITO!! (ESTOU NAMORANDO!?)",
+          "url": "https://www.youtube.com/watch?v=NRDqzpVLCGE"
         },
         {
-          "titulo": "Qual é a melhor linguagem de programação? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=Uh-GNH-t89w"
+          "titulo": "PEDIDO DE NAMORO NO CINEMA - ILHA SOLTEIRA SP",
+          "url": "https://www.youtube.com/watch?v=NmpU6KeLK3c"
         },
         {
-          "titulo": "Novidades do Angular v9",
-          "url": "https://www.youtube.com/watch?v=34uHo7hFmG0"
+          "titulo": "Um pedido de namoro perfeito",
+          "url": "https://www.youtube.com/watch?v=ATXs7uJbjac"
         },
         {
-          "titulo": "Base para aprender os frameworks",
-          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
+          "titulo": "QUER NAMORAR COMIGO?",
+          "url": "https://www.youtube.com/watch?v=oBao3RdHtKg"
         }        
       ]
     },
     {
-      "titulo": "Back End",
+      "titulo": "Inicio de Namoro",
       "cor": "#00C86F",
       "link_extra": {
         "text": "Cursos de Back End na Alura",

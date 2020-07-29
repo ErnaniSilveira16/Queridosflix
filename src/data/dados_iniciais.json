@@ -1,7 +1,7 @@
 {
   "categorias": [
     {
-      "titulo": "Pedido de namoro",
+      "titulo": "Love",
       "link": "https://www.alura.com.br/formacao-front-end",
       "cor": "#6BD1FF",
       "link_extra": {
@@ -108,76 +108,76 @@
           "url": "https://www.youtube.com/watch?v=tgFI0phqRIY"
         },
         {
-          "titulo": "Gattaca",
-          "url": "https://www.youtube.com/watch?v=Dl0tYLbrhhs"
+          "titulo": "Por que dizemos Vidas Negras Importam | Michael Che Matters | Netflix Brasi",
+          "url": "https://www.youtube.com/watch?v=aQpJF9t-zJ4"
         },
         {
-          "titulo": "A Chegada",
-          "url": "https://www.youtube.com/watch?v=rNciXGzYZms"
+          "titulo": "Morte No Funeral - Trailer",
+          "url": "https://www.youtube.com/watch?v=iNhFHbeZxHI"
         },
         {
-          "titulo": "Feitiço do Tempo",
-          "url": "https://www.youtube.com/watch?v=zi8d69P9NvI"
+          "titulo": "O Bom Filho À Casa Torna 2008 Trailer Original",
+          "url": "https://www.youtube.com/watch?v=Q-aYehf_cAI"
         }
       ]
     },
     {
-      "titulo": "Games",
+      "titulo": "Couple Black",
       "cor": "red",
       "link_extra": {
-        "text": "Formação de Jogos na Alura",
-        "url": "https://www.alura.com.br/formacao-jogos-unity"
+        "text": "Casal negro",
+        "url": "https://www.youtube.com/watch?v=Goo4Vcb5S74"
       },
       "videos": [
         {
-          "titulo": "Final Fantasy 7",
-          "url": "https://www.youtube.com/watch?v=I_ATSCTnUD8"
+          "titulo": "Casais Negros Perfeitos Tumbrl",
+          "url": "https://www.youtube.com/watch?v=k8N3D_YHZa8"
         },
         {
-          "titulo": "Assassins Creed Valhalla",
-          "url": "https://www.youtube.com/watch?v=KDfdjB9uL0U"
+          "titulo": "Casal negro tumblr❤💑 Black Couple Tumblr",
+          "url": "https://www.youtube.com/watch?v=m8OMWfNNsTo"
         },
         {
-          "titulo": "God of War 4",
-          "url": "https://www.youtube.com/watch?v=FyIwEFXOcaE"
+          "titulo": "casais negros",
+          "url": "https://www.youtube.com/watch?v=_SjqnVex3Cg"
         },
         {
-          "titulo": "Resident Evil 8",
-          "url": "https://www.youtube.com/watch?v=JSapXD9vxYA"
+          "titulo": "CASAIS NEGROS",
+          "url": "https://www.youtube.com/watch?v=euCHad-h-c4"
         },
         {
-          "titulo": "Pokémon Let's Go Pikachu/Eevee",
-          "url": "https://www.youtube.com/watch?v=L56q_k2ydrs"
+          "titulo": "Casais negros perfeitos Tumblr/ namorados apaixonados (essa música é foda)",
+          "url": "https://www.youtube.com/watch?v=n1FkfDCTtyQ"
         }
       ]
     },
     {
-      "titulo": "Aprendendo a aprender tecnologia",
+      "titulo": "Fogo nos Racistas",
       "cor": "#6b5be2",
       "link_extra": {
-        "text": "Curso sobre aprendizado na Alura",
+        "text": "Revolução Negra",
         "url": "https://alura.com.br/curso-online-aprender-a-aprender-tecnicas-para-seu-autodesenvolvimento"
       },
       "videos": [
         {
-          "titulo": "Como estudar melhor?",
-          "url": "https://www.youtube.com/watch?v=Is6c9KSGCbk&feature=youtu.be"
+          "titulo": "Djonga - Olho de Tigre",
+          "url": "https://www.youtube.com/watch?v=0D84LFKiGbo"
         },
         {
-          "titulo": "Faculdade",
-          "url": "https://www.youtube.com/watch?v=jw06H8esyzQ&feature=youtu.be"
+          "titulo": "Emicida fala sobre a desigualdade e racismo no Programa Altas Horas",
+          "url": "https://www.youtube.com/watch?v=x1AA-37rjsc"
         },
         {
-          "titulo": "Frameworks",
-          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
+          "titulo": "Tawane Theodoro | Fogo nos racistas | Final Slam da Guilhermina",
+          "url": "https://www.youtube.com/watch?v=gq9aL64yoI4"
         },
         {
-          "titulo": "A mágica do Aprendizado",
-          "url": "https://www.youtube.com/watch?v=oTEXzpfEpPY"
+          "titulo": "8 relatos sobre como é ser negro no Brasil",
+          "url": "https://www.youtube.com/watch?v=fl6tvDlTJbg"
         },
         {
-          "titulo": "Como aprender a programar?",
-          "url": "https://www.youtube.com/watch?v=MwCx2qKdbDw&feature=youtu.be"
+          "titulo": "O emocionado discurso da menina de 9 anos que chamou a atenção do mundo para a tensão racial nos EUA",
+          "url": "https://www.youtube.com/watch?v=Wf7rXkE9Jkc"
         }
       ]
     }

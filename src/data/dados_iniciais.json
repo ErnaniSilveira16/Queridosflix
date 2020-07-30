@@ -1,11 +1,11 @@
 {
   "categorias": [
     {
-      "titulo": "Love",
-      "link": "https://www.alura.com.br/formacao-front-end",
+      "titulo": "Power Black",
+      "link": "https://movimentoblackmoney.com.br/",
       "cor": "#6BD1FF",
       "link_extra": {
-        "text": "BLACK COUPLES COMPILATION",
+        "text": "Negros no Controle",
         "url": ""
       },
       "videos": [
@@ -14,32 +14,32 @@
           "url": "https://www.youtube.com/watch?v=R1yqJisehhQ"
         },
         {
-          "titulo": "FUI PEDIDA EM NAMORO DA FORMA MAIS LINDA DE TODAS!!",
-          "url": "https://www.youtube.com/watch?v=7kQbDKNb_yU"
+          "titulo": "Nina Silva e o Movimento Black Money",
+          "url": "https://www.youtube.com/watch?v=mR_BghDLg4c"
         },
         {
-          "titulo": "Um pedido de namoro encantador",
-          "url": "https://www.youtube.com/watch?v=ukBphRmiBCw"
+          "titulo": "#tbt AFROPYTHON CONF | 1ª edição | Porto Alegre | 2019",
+          "url": "https://www.youtube.com/watch?v=UL0wCfVviD4"
         },
         {
-          "titulo": "O MELHOR PEDIDO DE NAMORO DE TODOS OS TEMPOS",
-          "url": "https://www.youtube.com/watch?v=kTMNaJTiA6Q"
+          "titulo": "Rodrigo Ribeiro- BrazilJS Conf 2019",
+          "url": "https://www.youtube.com/watch?v=C81ftRbSj8M"
         },
         {
-          "titulo": "PEDIDO DE NAMORO MAIS QUE PERFEITO!! (ESTOU NAMORANDO!?)",
-          "url": "https://www.youtube.com/watch?v=NRDqzpVLCGE"
+          "titulo": "TECNOLOGIA E CULTURA NEGRA | Mentes da Tecnologia S01E05 - Nina Silva",
+          "url": "https://www.youtube.com/watch?v=lABz-0PRX5k"
         },
         {
-          "titulo": "PEDIDO DE NAMORO NO CINEMA - ILHA SOLTEIRA SP",
-          "url": "https://www.youtube.com/watch?v=NmpU6KeLK3c"
+          "titulo": "RACISMO na TECNOLOGIA - Papo de Preta",
+          "url": "https://www.youtube.com/watch?v=cAh_NlhAnYE"
         },
         {
-          "titulo": "Um pedido de namoro perfeito",
-          "url": "https://www.youtube.com/watch?v=ATXs7uJbjac"
+          "titulo": "Ninguém nasce racista. Continue Criança.",
+          "url": "https://www.youtube.com/watch?v=qmYucZKoxQA"
         },
         {
-          "titulo": "QUER NAMORAR COMIGO?",
-          "url": "https://www.youtube.com/watch?v=oBao3RdHtKg"
+          "titulo": "A mulata que nunca chegou",
+          "url": "https://www.youtube.com/watch?v=02TBfKeBbRw"
         }        
       ]
     },
